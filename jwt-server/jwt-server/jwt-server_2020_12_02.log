@@ -1,0 +1,14 @@
+2020-12-02 12:42:34.543 u-fs.readFileSync Error: ENOENT: no such file or directory, open './jwt-server.json1'
+2020-12-02 12:42:38.189 u-app.initialize Error: Unable to read program settings file (./jwt-server.json1)
+2020-12-02 13:53:24.806 Incorrect syntax near 'email'.
+2020-12-02 13:55:56.437 Incorrect syntax near 'email'.
+2020-12-02 14:01:38.346 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:03:45.734 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:07:45.554 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:08:44.344 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:15:58.094 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:15:59.523 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:16:03.357 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:16:04.025 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:16:04.543 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.
+2020-12-02 14:25:24.577 *** udb.query Error: <SELECT id, name, email, password FROM jwt_users WH87ERE email='avivs@unistep.co.il'>; Incorrect syntax near 'email'.

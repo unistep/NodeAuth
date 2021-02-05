@@ -1,0 +1,16 @@
+2020-12-14 15:18:46.174 GetAppParams: Caller=undefined
+2020-12-14 15:18:46.526 TimeClock: Caller=undefined
+2020-12-14 15:21:47.571 GetAppParams: Caller=undefined
+2020-12-14 15:21:47.688 TimeClock: Caller=undefined
+2020-12-14 15:46:12.834 GetAppParams: Caller=undefined
+2020-12-14 15:46:12.911 TimeClock: Caller=undefined
+2020-12-14 15:46:18.225 GetAppParams: Caller=undefined
+2020-12-14 15:46:18.245 TimeClock: Caller=undefined
+2020-12-14 15:46:45.032 GetAppParams: Caller=undefined
+2020-12-14 15:46:45.075 TimeClock: Caller=undefined
+2020-12-14 17:16:16.290 GetAppParams: Caller=undefined
+2020-12-14 17:16:16.384 TimeClock: Caller=undefined
+2020-12-14 17:17:06.892 GetAppParams: Caller=undefined
+2020-12-14 17:17:06.934 TimeClock: Caller=undefined
+2020-12-14 17:18:09.710 TimeClock: Caller=undefined
+2020-12-14 17:18:50.573 WebProcedure: Caller=undefined, Stmt=INSERT INTO Time_Clock (Technician, User_Login, Action_Type, LatLng, Address_Reported)  VALUES (1, 'undefined', 'Entrance', '(31.046051, 34.851611999999996)', 'רמת הנגב, ישראל')

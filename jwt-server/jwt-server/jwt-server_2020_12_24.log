@@ -1,0 +1,68 @@
+2020-12-24 14:16:41.769 *** Server Error: Could not authenticate token
+2020-12-24 14:16:47.808 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:17:02.817 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:17:17.826 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+
+2020-12-24 14:17:32.835 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:17:32.837 DB: Core_300(0) is INACCESSABLE
+2020-12-24 14:17:32.843 *** udb.noneQuery Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:17:47.843 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:17:47.844 DB: CoreSite(0) is INACCESSABLE
+2020-12-24 14:18:21.306 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:18:23.977 *** Server Error: Could not authenticate token
+2020-12-24 14:18:36.314 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:18:51.318 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+
+2020-12-24 14:18:55.678 /GetAppParams: Caller=unistep
+2020-12-24 14:19:06.327 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:19:06.329 DB: Core_300(0) is INACCESSABLE
+2020-12-24 14:19:06.333 *** udb.noneQuery Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:19:21.336 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:19:21.339 DB: CoreSite(0) is INACCESSABLE
+2020-12-24 14:19:22.013 DB: De-Facto_DB(1) is OK
+2020-12-24 14:20:13.956 *** Server Error: Could not authenticate token
+2020-12-24 14:20:17.189 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:20:32.202 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:20:47.212 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+
+2020-12-24 14:21:02.218 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:21:02.218 DB: Core_300(0) is INACCESSABLE
+2020-12-24 14:21:02.221 *** udb.noneQuery Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:21:17.223 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:21:17.225 DB: CoreSite(0) is INACCESSABLE
+2020-12-24 14:21:32.234 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:21:32.237 DB: De-Facto_DB(0) is INACCESSABLE
+2020-12-24 14:36:30.194 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:36:45.209 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:37:00.218 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+
+2020-12-24 14:37:15.231 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:37:15.236 DB: Core_300(0) is INACCESSABLE
+2020-12-24 14:37:15.244 *** udb.noneQuery Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:37:30.245 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:37:30.247 DB: CoreSite(0) is INACCESSABLE
+2020-12-24 14:37:45.254 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:37:45.258 DB: De-Facto_DB(0) is INACCESSABLE
+2020-12-24 14:42:56.075 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:43:11.088 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:43:26.095 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+
+2020-12-24 14:43:41.103 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:43:41.106 DB: Core_300(0) is INACCESSABLE
+2020-12-24 14:43:41.116 *** udb.noneQuery Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:43:56.115 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:43:56.116 DB: CoreSite(0) is INACCESSABLE
+2020-12-24 14:44:11.122 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 14:44:11.124 DB: De-Facto_DB(0) is INACCESSABLE
+2020-12-24 15:00:27.111 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 15:00:42.116 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 15:00:57.121 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+
+2020-12-24 15:01:12.131 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 15:01:12.134 DB: Core_300(0) is INACCESSABLE
+2020-12-24 15:01:12.141 *** udb.noneQuery Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 15:01:27.142 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 15:01:27.142 DB: CoreSite(0) is INACCESSABLE
+2020-12-24 15:01:42.152 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-24 15:01:42.154 DB: De-Facto_DB(0) is INACCESSABLE
+2020-12-24 15:16:30.743 *** Server Error: Could not authenticate token

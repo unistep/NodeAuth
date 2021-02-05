@@ -1,0 +1,21 @@
+2020-12-18 11:09:40.201 GetAppParams: Caller=undefined
+2020-12-18 11:17:48.700 GetAppParams: Caller=undefined
+2020-12-18 11:17:53.875 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-18 11:18:41.525 GetAppParams: Caller=undefined
+2020-12-18 11:19:35.660 GetAppParams: Caller=undefined
+2020-12-18 11:27:10.144 GetAppParams: Caller=undefined
+2020-12-18 11:27:29.030 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-18 11:32:37.819 GetAppParams: Caller=undefined
+2020-12-18 11:32:57.730 GetAppParams: Caller=undefined
+2020-12-18 11:33:48.599 GetAppParams: Caller=undefined
+2020-12-18 11:34:40.009 time-clock: Caller=undefined
+2020-12-18 11:35:50.448 time-clock: Caller=undefined
+2020-12-18 13:05:41.268 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-18 13:05:44.905 time-clock: Caller=undefined
+2020-12-18 13:08:54.361 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to lookup instance on . - getaddrinfo ENOTFOUND .
+2020-12-18 20:00:55.011 this.query is not a function
+2020-12-18 20:11:28.016 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; dbKey.trim is not a function
+2020-12-18 20:11:57.435 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; dbKey.trim is not a function
+2020-12-18 20:25:59.890 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; The "config.server" property is required and must be of type string.
+
+

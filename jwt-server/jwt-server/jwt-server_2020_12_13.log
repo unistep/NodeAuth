@@ -1,0 +1,73 @@
+2020-12-13 13:39:19.266 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 13:40:55.459 GetAppParams: Caller=undefined
+2020-12-13 13:40:57.156 TimeClock: Caller=undefined
+2020-12-13 13:43:19.065 GetAppParams: Caller=undefined
+2020-12-13 13:43:19.144 TimeClock: Caller=undefined
+2020-12-13 13:44:07.314 GetAppParams: Caller=undefined
+2020-12-13 13:44:07.392 TimeClock: Caller=undefined
+2020-12-13 13:47:53.773 GetAppParams: Caller=undefined
+2020-12-13 13:47:53.869 TimeClock: Caller=undefined
+2020-12-13 13:49:26.255 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 13:51:01.290 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 13:52:40.702 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 13:54:36.881 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 13:56:42.682 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 13:58:46.472 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 13:59:41.067 GetAppParams: Caller=undefined
+2020-12-13 13:59:41.182 TimeClock: Caller=undefined
+2020-12-13 14:00:07.956 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 14:11:34.244 *** udb.query Error: <SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE OBJECTPROPERTY(OBJECT_ID(CONSTRAINT_SCHEMA+'.'+CONSTRAINT_NAME), 'IsPrimaryKey') = 1AND TABLE_NAME='Time_Clock'>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 14:15:32.758 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-13 14:15:47.821 GetAppParams: Caller=undefined
+2020-12-13 14:15:47.906 TimeClock: Caller=undefined
+2020-12-13 14:17:42.381 GetAppParams: Caller=undefined
+2020-12-13 14:17:42.464 TimeClock: Caller=undefined
+2020-12-13 14:18:22.216 GetAppParams: Caller=undefined
+2020-12-13 14:18:22.297 TimeClock: Caller=undefined
+2020-12-13 14:20:11.811 GetAppParams: Caller=undefined
+2020-12-13 14:20:11.882 TimeClock: Caller=undefined
+2020-12-13 14:21:04.205 GetAppParams: Caller=undefined
+2020-12-13 14:21:04.236 TimeClock: Caller=undefined
+2020-12-13 14:21:20.874 *** udb.query Error: <SELECT COLUMN_NAME, DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'SELECT Top 1 * FROM Time_Clock WHERE User_Login='avivs@unistep.co.il' ORDER BY Time_Reported DESC'>; Incorrect syntax near 'avivs@unistep'.
+2020-12-13 14:26:09.665 GetAppParams: Caller=undefined
+2020-12-13 14:26:09.714 TimeClock: Caller=undefined
+2020-12-13 14:28:23.693 GetAppParams: Caller=undefined
+2020-12-13 14:28:23.872 TimeClock: Caller=undefined
+2020-12-13 14:29:53.958 GetAppParams: Caller=undefined
+2020-12-13 14:29:53.991 TimeClock: Caller=undefined
+2020-12-13 14:31:34.074 GetAppParams: Caller=undefined
+2020-12-13 14:31:34.172 TimeClock: Caller=undefined
+2020-12-13 14:34:23.304 GetAppParams: Caller=undefined
+2020-12-13 14:34:23.391 TimeClock: Caller=undefined
+2020-12-13 14:35:01.719 GetAppParams: Caller=undefined
+2020-12-13 14:35:01.804 TimeClock: Caller=undefined
+2020-12-13 15:56:25.973 GetAppParams: Caller=undefined
+2020-12-13 15:56:26.048 TimeClock: Caller=undefined
+2020-12-13 15:58:30.928 GetAppParams: Caller=undefined
+2020-12-13 15:58:30.932 TimeClock: Caller=undefined
+2020-12-13 16:00:36.817 GetAppParams: Caller=undefined
+2020-12-13 16:00:36.879 TimeClock: Caller=undefined
+2020-12-13 16:01:20.264 GetAppParams: Caller=undefined
+2020-12-13 16:01:20.271 TimeClock: Caller=undefined
+2020-12-13 16:06:11.173 GetAppParams: Caller=undefined
+2020-12-13 16:06:11.277 TimeClock: Caller=undefined
+2020-12-13 16:12:27.702 GetAppParams: Caller=undefined
+2020-12-13 16:12:27.759 TimeClock: Caller=undefined
+2020-12-13 16:13:11.905 GetAppParams: Caller=undefined
+2020-12-13 16:13:11.981 TimeClock: Caller=undefined
+2020-12-13 17:48:56.794 GetAppParams: Caller=undefined
+2020-12-13 17:48:58.966 TimeClock: Caller=undefined
+2020-12-13 17:49:53.833 GetAppParams: Caller=undefined
+2020-12-13 17:49:53.912 TimeClock: Caller=undefined
+2020-12-13 18:27:57.344 GetAppParams: Caller=undefined
+2020-12-13 18:27:57.433 TimeClock: Caller=undefined
+2020-12-13 18:38:12.256 GetAppParams: Caller=undefined
+2020-12-13 18:38:12.324 TimeClock: Caller=undefined
+2020-12-13 18:40:00.405 GetAppParams: Caller=undefined
+2020-12-13 18:40:00.492 TimeClock: Caller=undefined
+2020-12-13 18:40:41.675 GetAppParams: Caller=undefined
+2020-12-13 18:40:41.747 TimeClock: Caller=undefined
+2020-12-13 18:42:16.864 GetAppParams: Caller=undefined
+2020-12-13 18:42:16.958 TimeClock: Caller=undefined
+2020-12-13 18:43:21.867 GetAppParams: Caller=undefined
+2020-12-13 18:43:21.933 TimeClock: Caller=undefined

@@ -1,0 +1,22 @@
+2020-12-11 13:45:19.810 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-11 13:46:31.462 *** udb.query Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; Failed to connect to localhost\SQLEXPRESS in 15000ms
+2020-12-11 13:57:51.168 GetAppParams: Caller=undefined
+2020-12-11 13:58:02.863 TimeClock: Caller=undefined
+2020-12-11 13:59:25.367 GetAppParams: Caller=undefined
+2020-12-11 13:59:25.410 TimeClock: Caller=undefined
+2020-12-11 14:00:08.974 GetAppParams: Caller=undefined
+2020-12-11 14:00:09.018 TimeClock: Caller=undefined
+2020-12-11 14:01:24.763 GetAppParams: Caller=undefined
+2020-12-11 14:01:24.809 TimeClock: Caller=undefined
+2020-12-11 14:03:06.924 GetAppParams: Caller=undefined
+2020-12-11 14:03:06.970 TimeClock: Caller=undefined
+2020-12-11 14:04:03.078 GetAppParams: Caller=undefined
+2020-12-11 14:04:03.118 TimeClock: Caller=undefined
+2020-12-11 14:12:43.631 *** udb.query Error: <SELECT Top 1 * FROM Time_Clock WHERE User_Login='avivs@unistep.co.il' ORDER BY Time_Reported DESC>; Invalid object name 'Time_Clock'.
+2020-12-11 14:12:56.318 GetAppParams: Caller=undefined
+2020-12-11 14:12:56.360 TimeClock: Caller=undefined
+2020-12-11 14:14:15.767 GetAppParams: Caller=undefined
+2020-12-11 14:14:15.806 TimeClock: Caller=undefined
+2020-12-11 14:15:55.577 TimeClock: Caller=undefined
+2020-12-11 14:19:35.424 GetAppParams: Caller=undefined
+2020-12-11 14:19:35.506 TimeClock: Caller=undefined

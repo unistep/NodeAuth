@@ -1,0 +1,18 @@
+
+2020-12-22 13:21:24.247 DB: Core_300(12) is OK
+2020-12-22 13:21:24.350 DB: CoreSite(16) is OK
+2020-12-22 13:21:24.440 DB: De-Facto_DB(1) is OK
+2020-12-22 13:41:21.988 /GetAppParams: Caller=unistep
+2020-12-22 13:41:39.257 /service-call: Caller=unistep
+2020-12-22 13:44:02.735 /GetAppParams: Caller=unistep
+2020-12-22 13:44:02.917 /service-call: Caller=unistep
+2020-12-22 13:45:35.338 /GetAppParams: Caller=unistep
+2020-12-22 13:45:35.445 /service-call: Caller=unistep
+
+2020-12-22 13:47:39.029 DB: Core_300(12) is OK
+2020-12-22 13:47:39.113 DB: CoreSite(16) is OK
+2020-12-22 13:47:39.194 DB: De-Facto_DB(1) is OK
+2020-12-22 13:48:07.331 /Upload: Caller=unistep
+2020-12-22 13:53:37.026 /GetAppParams: Caller=unistep
+2020-12-22 13:53:37.188 /service-call: Caller=unistep
+2020-12-22 13:57:53.692 /Upload: Caller=unistep

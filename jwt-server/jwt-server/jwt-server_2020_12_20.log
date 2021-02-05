@@ -1,0 +1,166 @@
+
+2020-12-20 12:30:59.013 DB: Core_300(13) is OK
+2020-12-20 12:30:59.116 DB: CoreSite(16) is OK
+2020-12-20 12:30:59.196 DB: De-Facto_DB(1) is OK
+
+2020-12-20 12:35:11.328 DB: Core_300(13) is OK
+2020-12-20 12:35:11.412 DB: CoreSite(16) is OK
+2020-12-20 12:35:11.490 DB: De-Facto_DB(1) is OK
+
+2020-12-20 12:36:01.817 DB: Core_300(13) is OK
+2020-12-20 12:36:01.900 DB: CoreSite(16) is OK
+2020-12-20 12:36:01.980 DB: De-Facto_DB(1) is OK
+
+2020-12-20 12:37:20.442 DB: Core_300(13) is OK
+2020-12-20 12:37:20.537 DB: CoreSite(16) is OK
+2020-12-20 12:37:20.628 DB: De-Facto_DB(1) is OK
+
+2020-12-20 12:38:05.398 DB: Core_300(13) is OK
+2020-12-20 12:38:05.483 DB: CoreSite(16) is OK
+2020-12-20 12:38:05.562 DB: De-Facto_DB(1) is OK
+
+2020-12-20 12:38:26.569 DB: Core_300(13) is OK
+2020-12-20 12:38:26.672 DB: CoreSite(16) is OK
+2020-12-20 12:38:26.776 DB: De-Facto_DB(1) is OK
+2020-12-20 12:39:10.354 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; this.getDatabaseKey is not a function
+2020-12-20 12:39:10.372 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; this.getDatabaseKey is not a function
+2020-12-20 12:39:10.373 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; this.getDatabaseKey is not a function
+2020-12-20 12:39:10.374 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; this.getDatabaseKey is not a function
+
+2020-12-20 12:39:10.376 *** udb.query Error: <SELECT COUNT(*) FROM sys.objects WHERE type = 'P' AND OBJECT_ID = OBJECT_ID('dbo.jwt_users')>; this.getDatabaseKey is not a function
+2020-12-20 12:39:10.378 DB: Core_300(0) is INACCESSABLE
+2020-12-20 12:39:10.379 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; this.getDatabaseKey is not a function
+2020-12-20 12:39:10.380 *** udb.noneQuery Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; config is not defined
+2020-12-20 12:39:10.381 DB: CoreSite(0) is INACCESSABLE
+2020-12-20 12:39:10.382 *** udb.query Error: <SELECT COUNT(*) from INFORMATION_SCHEMA.TABLES>; this.getDatabaseKey is not a function
+2020-12-20 12:39:10.383 DB: De-Facto_DB(0) is INACCESSABLE
+
+2020-12-20 12:40:38.450 DB: Core_300(13) is OK
+2020-12-20 12:40:38.535 DB: CoreSite(16) is OK
+2020-12-20 12:40:38.618 DB: De-Facto_DB(1) is OK
+
+2020-12-20 12:42:47.745 DB: Core_300(13) is OK
+2020-12-20 12:42:47.829 DB: CoreSite(16) is OK
+2020-12-20 12:42:47.908 DB: De-Facto_DB(1) is OK
+2020-12-20 12:43:01.755 GetAppParams: Caller=undefined
+2020-12-20 12:43:01.794 time-clock: Caller=undefined
+
+2020-12-20 12:44:17.797 DB: Core_300(13) is OK
+2020-12-20 12:44:17.885 DB: CoreSite(16) is OK
+2020-12-20 12:44:17.963 DB: De-Facto_DB(1) is OK
+2020-12-20 12:44:23.120 GetAppParams: Caller=undefined
+2020-12-20 12:44:23.153 time-clock: Caller=undefined
+
+2020-12-20 12:45:19.449 DB: Core_300(13) is OK
+2020-12-20 12:45:19.536 DB: CoreSite(16) is OK
+2020-12-20 12:45:19.631 DB: De-Facto_DB(1) is OK
+2020-12-20 12:45:24.011 GetAppParams: Caller=undefined
+2020-12-20 12:45:24.061 time-clock: Caller=undefined
+
+2020-12-20 12:47:03.492 DB: Core_300(13) is OK
+2020-12-20 12:47:03.579 DB: CoreSite(16) is OK
+2020-12-20 12:47:03.658 DB: De-Facto_DB(1) is OK
+2020-12-20 12:47:10.438 GetAppParams: Caller=undefined
+2020-12-20 12:47:10.471 time-clock: Caller=undefined
+2020-12-20 12:49:34.828 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 12:49:38.233 time-clock: Caller=undefined
+
+2020-12-20 13:00:42.400 DB: Core_300(13) is OK
+2020-12-20 13:00:42.491 DB: CoreSite(16) is OK
+2020-12-20 13:00:42.575 DB: De-Facto_DB(1) is OK
+
+2020-12-20 13:02:14.309 DB: Core_300(13) is OK
+2020-12-20 13:02:14.397 DB: CoreSite(16) is OK
+2020-12-20 13:02:14.485 DB: De-Facto_DB(1) is OK
+2020-12-20 13:02:25.365 /GetAppParams: Caller=unistep
+2020-12-20 13:02:25.381 /time-clock: Caller=unistep
+
+2020-12-20 13:22:10.169 DB: Core_300(13) is OK
+2020-12-20 13:22:10.257 DB: CoreSite(16) is OK
+2020-12-20 13:22:10.346 DB: De-Facto_DB(1) is OK
+2020-12-20 13:22:24.499 /GetAppParams: Caller=undefined
+2020-12-20 13:22:37.575 /time-clock: Caller=undefined
+2020-12-20 13:22:51.528 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:22:51.696 /profile: Caller=unistep
+2020-12-20 13:24:19.126 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:24:19.283 /profile: Caller=unistep
+2020-12-20 13:25:24.830 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:25:24.958 /profile: Caller=unistep
+2020-12-20 13:26:24.557 /GetAppParams: Caller=undefined
+2020-12-20 13:26:31.769 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:26:31.896 /profile: Caller=unistep
+2020-12-20 13:29:16.968 /GetAppParams: Caller=undefined
+2020-12-20 13:29:22.228 /GetAppParams: Caller=undefined
+2020-12-20 13:29:25.643 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:29:25.861 /profile: Caller=unistep
+2020-12-20 13:29:35.949 /logout: Caller=undefined
+2020-12-20 13:32:26.745 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:32:34.996 /profile: Caller=unistep
+2020-12-20 13:32:44.555 /logout: Caller=undefined
+2020-12-20 13:33:50.425 login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:33:58.468 /profile: Caller=unistep
+2020-12-20 13:34:12.359 /logout: Caller=undefined
+
+2020-12-20 13:35:41.210 DB: Core_300(13) is OK
+2020-12-20 13:35:41.311 DB: CoreSite(16) is OK
+2020-12-20 13:35:41.411 DB: De-Facto_DB(1) is OK
+2020-12-20 13:35:45.145 /GetAppParams: Caller=undefined
+2020-12-20 13:36:23.843 /login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:36:29.947 /profile: Caller=unistep
+2020-12-20 13:36:48.247 /logout: Caller=undefined
+
+2020-12-20 13:37:54.251 DB: Core_300(13) is OK
+2020-12-20 13:37:54.348 DB: CoreSite(16) is OK
+2020-12-20 13:37:54.443 DB: De-Facto_DB(1) is OK
+2020-12-20 13:38:05.450 /GetAppParams: Caller=undefined
+2020-12-20 13:38:17.236 /login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:38:20.571 /profile: Caller=unistep
+2020-12-20 13:38:27.108 /logout: Caller=undefined
+
+2020-12-20 13:56:56.570 DB: Core_300(13) is OK
+2020-12-20 13:56:56.662 DB: CoreSite(16) is OK
+2020-12-20 13:56:56.753 DB: De-Facto_DB(1) is OK
+2020-12-20 13:57:21.936 /GetAppParams: Caller=undefined
+2020-12-20 13:57:29.064 /login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 13:57:29.238 /profile: Caller=unistep
+2020-12-20 13:57:31.977 /logout: Caller=undefined
+2020-12-20 14:26:52.592 /GetAppParams: Caller=undefined
+
+2020-12-20 15:04:51.109 DB: Core_300(13) is OK
+2020-12-20 15:04:51.197 DB: CoreSite(16) is OK
+2020-12-20 15:04:51.281 DB: De-Facto_DB(1) is OK
+2020-12-20 15:05:00.874 /GetAppParams: Caller=undefined
+2020-12-20 15:05:07.607 /login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-20 15:05:07.780 /profile: Caller=unistep
+2020-12-20 15:05:11.077 /service-call: Caller=unistep
+2020-12-20 15:06:16.700 /GetAppParams: Caller=unistep
+2020-12-20 15:06:16.861 /service-call: Caller=unistep
+2020-12-20 15:09:09.739 /GetAppParams: Caller=unistep
+2020-12-20 15:09:09.897 /service-call: Caller=unistep
+2020-12-20 15:09:54.504 /GetAppParams: Caller=unistep
+2020-12-20 15:09:54.714 /service-call: Caller=unistep
+2020-12-20 15:10:10.858 /GetAppParams: Caller=unistep
+2020-12-20 15:10:11.009 /service-call: Caller=unistep
+2020-12-20 15:10:34.937 /GetAppParams: Caller=unistep
+2020-12-20 15:10:35.102 /service-call: Caller=unistep
+2020-12-20 15:15:20.208 /GetAppParams: Caller=unistep
+2020-12-20 15:15:20.343 /service-call: Caller=unistep
+
+2020-12-20 15:17:01.974 DB: Core_300(13) is OK
+2020-12-20 15:17:02.064 DB: CoreSite(16) is OK
+2020-12-20 15:17:02.154 DB: De-Facto_DB(1) is OK
+2020-12-20 15:17:09.554 /GetAppParams: Caller=unistep
+2020-12-20 15:17:09.693 /service-call: Caller=unistep
+2020-12-20 15:17:29.521 /GetAppParams: Caller=unistep
+2020-12-20 15:17:29.708 /service-call: Caller=unistep
+
+2020-12-20 15:18:42.413 DB: Core_300(13) is OK
+2020-12-20 15:18:42.499 DB: CoreSite(16) is OK
+2020-12-20 15:18:42.582 DB: De-Facto_DB(1) is OK
+2020-12-20 15:18:50.343 /GetAppParams: Caller=unistep
+2020-12-20 15:18:58.350 /service-call: Caller=unistep
+2020-12-20 15:26:35.861 /service-call: Caller=unistep
+2020-12-20 15:30:49.228 /GetAppParams: Caller=unistep
+2020-12-20 15:30:49.342 /service-call: Caller=unistep
+2020-12-20 15:30:51.639 /GetAppParams: Caller=unistep
+2020-12-20 15:30:51.824 /service-call: Caller=unistep

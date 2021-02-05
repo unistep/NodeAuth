@@ -1,0 +1,48 @@
+
+
+
+2020-12-19 10:26:30.587 *** uDB.getConnectionString: Database Key Not Found: Core_300,[object Object]
+
+2020-12-19 10:27:19.267 DB: Core_300([object Promise]) is OK
+2020-12-19 10:27:45.259 DB: CoreSite([object Promise]) is OK
+2020-12-19 10:27:45.261 DB: De-Facto_DB([object Promise]) is OK
+
+
+2020-12-19 10:28:02.177 DB: Core_300([object Promise]) is OK
+2020-12-19 10:28:02.179 DB: CoreSite([object Promise]) is OK
+2020-12-19 10:28:02.181 DB: De-Facto_DB([object Promise]) is OK
+
+
+
+2020-12-19 11:02:34.709 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; The "config.server" property is required and must be of type string.
+2020-12-19 11:02:34.713 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; The "config.server" property is required and must be of type string.
+2020-12-19 11:02:34.715 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; The "config.server" property is required and must be of type string.
+
+
+2020-12-19 11:03:51.892 *** udb.query Error: <SELECT sys.objects.name FROM sys.objects WHERE sys.objects.type IN ('U', 'P', 'V') ORDER BY sys.objects.name>; The "config.server" property is required and must be of type string.
+
+
+2020-12-19 11:07:08.164 DB: Core_300(NaN) is OK
+2020-12-19 11:07:12.541 DB: CoreSite(NaN) is OK
+2020-12-19 11:07:14.809 DB: De-Facto_DB(NaN) is OK
+
+
+
+
+
+
+
+
+2020-12-19 11:23:49.895 DB: Core_300(13) is OK
+
+2020-12-19 11:25:17.974 DB: Core_300(13) is OK
+2020-12-19 11:25:19.678 DB: CoreSite(13) is OK
+2020-12-19 11:25:22.894 DB: De-Facto_DB(13) is OK
+
+2020-12-19 11:25:53.789 DB: Core_300(13) is OK
+
+2020-12-19 11:27:36.957 DB: Core_300(13) is OK
+
+2020-12-19 11:41:32.594 DB: Core_300(13) is OK
+2020-12-19 11:41:33.396 DB: CoreSite(16) is OK
+2020-12-19 11:41:34.312 DB: De-Facto_DB(1) is OK

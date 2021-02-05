@@ -1,0 +1,38 @@
+{
+	"OnErrorNotify": "+972544719547",
+	"DefaultLanguage": "Hebrew",
+	"RegistrationPolicy": "Admin",
+
+	"TextTables": [
+		{ "Name": "Core_Site_Text_Table" },
+		{ "Name": "Service_Call_Text_Table" }
+	],
+
+	"Databases": [
+		{
+			"name": "Core_300",
+			"config": { "user": "sa", "password": "Iec11077", "server": "localhost\\SQLEXPRESS", "database": "Core_300", "port": "49699" }
+		},
+		{
+			"name": "CoreSite",
+			"config": { "user": "sa", "password": "Iec11077", "server": "localhost\\SQLEXPRESS", "database": "CoreSite", "port": "49699" }
+		},
+		{
+			"name": "De-Facto_DB",
+			"config": { "user": "sa", "password": "Iec11077", "server": "localhost\\SQLEXPRESS", "database": "De-Facto_DB", "port": "49699" }
+		}
+	],
+
+	"Endpoints": [
+		{
+			"EndpointName": "Default",
+			"EndpointUrl": "10.0.0.7:10101/",
+			"Timeout": 30
+		},
+		{
+			"EndpointName": "DeFacto4443",
+			"EndpointUrl": "https://defacto-service.com:4443/",
+			"Timeout": 30
+		}
+	]
+}

@@ -1,0 +1,69 @@
+2020-12-21 13:34:48.133 /GetAppParams: Caller=unistep
+2020-12-21 13:34:55.189 /time-clock: Caller=unistep
+
+2020-12-21 13:36:13.294 DB: Core_300(13) is OK
+2020-12-21 13:36:13.386 DB: CoreSite(16) is OK
+2020-12-21 13:36:13.473 DB: De-Facto_DB(1) is OK
+2020-12-21 13:36:29.467 /time-clock: Caller=unistep
+
+2020-12-21 14:02:52.202 DB: Core_300(13) is OK
+2020-12-21 14:02:52.288 DB: CoreSite(16) is OK
+2020-12-21 14:02:52.372 DB: De-Facto_DB(1) is OK
+2020-12-21 14:03:08.343 /service-call: Caller=unistep
+2020-12-21 14:07:30.450 /GetAppParams: Caller=unistep
+2020-12-21 14:07:35.920 /GetAppParams: Caller=unistep
+2020-12-21 14:07:45.775 /service-call: Caller=unistep
+2020-12-21 14:09:56.384 /service-call: Caller=unistep
+2020-12-21 14:10:44.208 /service-call: Caller=unistep
+2020-12-21 14:18:14.992 /service-call: Caller=unistep
+2020-12-21 14:18:15.012 /GetAppParams: Caller=unistep
+2020-12-21 14:18:16.000 /service-call: Caller=unistep
+2020-12-21 14:19:25.520 /service-call: Caller=unistep
+
+2020-12-21 14:20:41.648 DB: Core_300(13) is OK
+2020-12-21 14:20:41.767 DB: CoreSite(16) is OK
+2020-12-21 14:20:41.870 DB: De-Facto_DB(1) is OK
+2020-12-21 14:21:06.377 /service-call: Caller=unistep
+2020-12-21 14:21:15.492 /shopping-cart: Caller=unistep
+2020-12-21 14:21:52.881 /service-call: Caller=unistep
+2020-12-21 14:21:59.080 /shopping-cart: Caller=unistep
+
+2020-12-21 14:23:57.457 DB: Core_300(13) is OK
+2020-12-21 14:23:57.546 DB: CoreSite(16) is OK
+2020-12-21 14:23:57.627 DB: De-Facto_DB(1) is OK
+2020-12-21 14:24:06.234 /service-call: Caller=unistep
+2020-12-21 14:24:10.501 /shopping-cart: Caller=unistep
+2020-12-21 14:24:46.597 /service-call: Caller=unistep
+2020-12-21 14:26:04.446 /time-clock: Caller=unistep
+2020-12-21 14:26:08.348 /service-call: Caller=unistep
+2020-12-21 14:26:12.795 /shopping-cart: Caller=unistep
+2020-12-21 14:30:25.626 /service-call: Caller=unistep
+2020-12-21 14:30:31.891 /shopping-cart: Caller=unistep
+2020-12-21 14:33:01.149 /service-call: Caller=unistep
+2020-12-21 14:33:21.338 /shopping-cart: Caller=unistep
+2020-12-21 15:05:57.289 *** udb.getTableList Error: tableName is not defined
+
+2020-12-21 15:05:57.424 *** udb.noneQuery Error: <CREATE TABLE jwt_users (id INTEGER PRIMARY KEY, name nvarchar(50), email nvarchar(50), password varchar(max))>; There is already an object named 'jwt_users' in the database.
+2020-12-21 15:05:57.429 DB: Core_300(13) is OK
+2020-12-21 15:05:57.513 DB: CoreSite(16) is OK
+2020-12-21 15:05:57.609 DB: De-Facto_DB(1) is OK
+2020-12-21 15:06:01.347 /GetAppParams: Caller=unistep
+
+2020-12-21 15:08:32.035 DB: Core_300(13) is OK
+2020-12-21 15:08:32.115 DB: CoreSite(16) is OK
+2020-12-21 15:08:32.192 DB: De-Facto_DB(1) is OK
+2020-12-21 15:08:38.976 /GetAppParams: Caller=unistep
+
+2020-12-21 15:25:36.093 DB: Core_300(13) is OK
+2020-12-21 15:25:36.177 DB: CoreSite(16) is OK
+2020-12-21 15:25:36.266 DB: De-Facto_DB(1) is OK
+2020-12-21 15:25:49.012 /GetAppParams: Caller=unistep
+2020-12-21 15:26:06.741 /GetAppParams: Caller=unistep
+2020-12-21 15:26:28.902 *** Server Error: Could not authenticate token
+2020-12-21 15:28:26.227 /logout: Caller=unistep
+2020-12-21 15:28:30.981 /login: Caller=shlomo.aviv.unistep@gmail.com
+2020-12-21 15:28:31.170 /profile: Caller=unistep
+2020-12-21 15:28:50.687 /service-call: Caller=unistep
+2020-12-21 15:45:22.741 /shopping-cart: Caller=unistep
+2020-12-21 15:53:23.725 /GetAppParams: Caller=unistep
+2020-12-21 15:53:23.906 /shopping-cart: Caller=unistep
